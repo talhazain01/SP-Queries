@@ -18,6 +18,8 @@ Select IDENT_CURRENT('Foods') + 1
 Select Category_ID from Categories where Category_Name = 'Chinese'
 
 
+https://www.youtube.com/watch?v=7AKUyTxGL2M
+
 https://docs.microsoft.com/en-us/aspnet/web-api/overview/older-versions/creating-a-web-api-that-supports-crud-operations?fbclid=IwAR21oz7_2z47J6gktBsVbcLVOGkq__1LVz5yNhFn1CBj8arJRRlQjKwrjBU
 
 
