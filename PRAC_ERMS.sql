@@ -16,3 +16,9 @@ select Count(*) as Total from Tables
 Select IDENT_CURRENT('Foods') + 1
 
 Select Category_ID from Categories where Category_Name = 'Chinese'
+
+
+https://docs.microsoft.com/en-us/aspnet/web-api/overview/older-versions/creating-a-web-api-that-supports-crud-operations?fbclid=IwAR21oz7_2z47J6gktBsVbcLVOGkq__1LVz5yNhFn1CBj8arJRRlQjKwrjBU
+
+
+https://www.mindstick.com/Articles/1472/crud-operation-using-asp-dot-net-web-api-and-entity-framework-in-asp-dot-net-mvc-4
